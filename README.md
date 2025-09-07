@@ -82,3 +82,9 @@ The current dataset is synthetic and may not reflect your organisation’s real 
 ## License
 
 This project is provided for educational purposes. Feel free to adapt it for your own use.
+
+## Notes
+
+This repository was automatically generated as part of a job‑search portfolio. It includes a synthetic dataset and analysis notebook ready for use out of the box.
+
+Feel free to fork this project and build upon it with your own datasets or further analysis techniques to showcase your skills as a business analyst, program manager or data analyst.
